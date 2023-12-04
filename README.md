@@ -20,7 +20,7 @@ Throughout this project, we have prioritized adherence to industry laws, regulat
 We have ensured that all our actions related to data acquisition, storage, and processing are carried out in strict accordance with relevant regulations. This process ensures comprehensive data analysis, facilitating information extraction and the identification of significant patterns. Additionally, we have observed and respected copyright and intellectual property rights by legally and ethically utilizing the "EchoNet-Dynamic" dataset. For greater transparency, we have thoroughly documented the methodologies and approaches used, enabling others to understand and assess our decisions in this domain.
 
 
-### Challenge Regulations
+### Project Regulations
 We have conducted a thorough review and rigorously adhered to all the specific regulations and norms established by the presented project. This approach ensures that our solution complies with each of the rules and requirements outlined by the challenge. By strictly adhering to these regulations, we aim not only to achieve the project's objectives but also to demonstrate our commitment to integrity and legality at every stage of development.
 
 This document reflects our unwavering commitment to legal and ethical integrity in every phase of this project, ensuring transparency and accountability in all our actions.
